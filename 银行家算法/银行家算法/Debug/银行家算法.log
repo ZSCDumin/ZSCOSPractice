@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\zscdumin\documents\visual studio 2017\projects\银行家算法\银行家算法\源.cpp(67): warning C4101: “need_t”: 未引用的局部变量
+c:\users\zscdumin\documents\visual studio 2017\projects\银行家算法\银行家算法\源.cpp(139): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(242): note: 参见“freopen”的声明
+  银行家算法.vcxproj -> C:\Users\ZSCDumin\Documents\Visual Studio 2017\Projects\银行家算法\Debug\银行家算法.exe
+  银行家算法.vcxproj -> C:\Users\ZSCDumin\Documents\Visual Studio 2017\Projects\银行家算法\Debug\银行家算法.pdb (Partial PDB)
